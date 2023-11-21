@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aprrixx
+- 👀 I’m interested in advices from you about learning
+- 🌱 I’m currently learning the basics of Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: telegram @vldslpshr
